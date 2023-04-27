@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: covid19_public_locator
+    tables:
+      - name: hospital_data                        
+      - name: public_therapeutic_locator
+      - name: test_to_treat
