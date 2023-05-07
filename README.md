@@ -2,7 +2,9 @@
 
 ### Note: This is a modified starter project taken from DBT's official documentation, and expanded to include Great Expectations
 
-# The goal of this project is to explore using DBT and Great Expectations--among other Python/SQL based tooling to perform data quality validation against sample health-related datasets. There is also a Notebook stored within the Analysis folder titled, data_quality_analysis_notebook.ipynb that shows some example tests that can be run using a Pandas Profiler library. This tool offers rather simple data profiling once the dataset has been loaded and coverted into a dataframe.
+#### Objective: The goal of this project is to explore using DBT and Great Expectations--among other Python/SQL based tooling to perform data quality validation against sample health-related datasets. There is also a Notebook stored within the Analysis folder titled, data_quality_analysis_notebook.ipynb that shows some example tests that can be run using a Pandas Profiler library. This tool offers rather simple data profiling once the dataset has been loaded and coverted into a dataframe.
+
+#### Dataset used: https://healthdata.gov/Health/COVID-19-Test-to-Treat/6m8a-tsjg
 
 To run, use the following commands:
 - dbt run
